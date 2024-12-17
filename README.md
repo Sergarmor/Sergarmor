@@ -1,27 +1,18 @@
-<!--## Hi there 👋-->
-
-<!--
-**Sergarmor/Sergarmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+Passionate about the mysteries of the universe, I hold a Bachelor's Degree in Physics and a Master's Degree in Astrophysics from the Universidad Complutense de Madrid (UCM), with a special interest in cosmological simulations and extragalactic physics. Currently studying a PhD in Astrophysics at UCM, my academic journey has fueled my fascination with understanding the fundamental processes that shape our cosmos, from the behaviour of dark matter to the formation and evolution of galaxies.<br><br>I've developed a robust skill set in data analysis, computational modelling, and theoretical physics throughout my studies. My most rewarding experiences to date were my Bachelor's and Master's Thesis, researching the large-scale structure formation in the universe from state-of-the-art simulations. These works improved my technical abilities and underscored the importance of collaborative research in advancing our knowledge of the cosmos.<br><br>As I advance in my career, my goal is to engage in cutting-edge research that pushes the boundaries of our understanding of the universe. I am particularly interested in opportunities that involve interdisciplinary collaboration, innovative simulations, and the application of new technologies to astrophysical problems.<br><br>I am eager to connect with fellow researchers, academics, and professionals who share my enthusiasm for astrophysics and cosmology. Whether through collaborative research projects, academic conferences, or professional networks, I am always open to exploring new opportunities and contributing to the scientific community.<br><br>Feel free to reach out if you're interested in discussing potential collaborations, research ideas or simply sharing insights about the ever-evolving field of astrophysics.
 
 
-Passionate about the mysteries of the universe, I hold a Bachelor's Degree in Physics and a Master's Degree in Astrophysics from the Universidad Complutense de Madrid (UCM), with a special interest in cosmological simulations and extragalactic physics. Currently studying a PhD in Astrophysics at UCM, my academic journey has fueled my fascination with understanding the fundamental processes that shape our cosmos, from the behaviour of dark matter to the formation and evolution of galaxies.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergarmor) 
 
-I've developed a robust skill set in data analysis, computational modelling, and theoretical physics throughout my studies. My most rewarding experiences to date were my Bachelor's and Master's Thesis, researching the large-scale structure formation in the universe from state-of-the-art simulations. These works improved my technical abilities and underscored the importance of collaborative research in advancing our knowledge of the cosmos.
+# 💻 Tech Stack:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sergarmor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sergarmor&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergarmor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-As I advance in my career, my goal is to engage in cutting-edge research that pushes the boundaries of our understanding of the universe. I am particularly interested in opportunities that involve interdisciplinary collaboration, innovative simulations, and the application of new technologies to astrophysical problems.
+---
+[![](https://visitcount.itsvg.in/api?id=sergarmor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I am eager to connect with fellow researchers, academics, and professionals who share my enthusiasm for astrophysics and cosmology. Whether through collaborative research projects, academic conferences, or professional networks, I am always open to exploring new opportunities and contributing to the scientific community.
-
-Feel free to reach out if you're interested in discussing potential collaborations, research ideas or simply sharing insights about the ever-evolving field of astrophysics.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
